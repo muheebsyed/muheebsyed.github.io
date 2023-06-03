@@ -17,7 +17,7 @@ const RESOURCES = {"assets/AssetManifest.json": "df04c8e00dfe8cf7cfc369a37bf5163
 "assets/image/logo_oneup.png": "35edcd2cd32262f5a4d20550d392ded3",
 "assets/image/reed_secondBG.jpg": "e2297a6201e661e56df1a42032b2bbb1",
 "assets/image/sport.jpg": "97ddfbf0cf79d5cfbcc2f465b3f68c2e",
-"assets/NOTICES": "75753aeeafd04e1745538c299d6cc769",
+"assets/NOTICES": "6cea1143ead39cb58d12bb3ed815ed76",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "57d849d738900cfd590e9adc7e208250",
 "assets/packages/flutter_inappwebview/assets/t_rex_runner/t-rex.css": "5a8d0222407e388155d7d1395a75d5b9",
 "assets/packages/flutter_inappwebview/assets/t_rex_runner/t-rex.html": "16911fcc170c8af1c5457940bd0bf055",
@@ -57,9 +57,9 @@ const RESOURCES = {"assets/AssetManifest.json": "df04c8e00dfe8cf7cfc369a37bf5163
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "3e4d25ba565a950c9e37e560cbf963de",
-"/": "3e4d25ba565a950c9e37e560cbf963de",
-"main.dart.js": "ea6a048c78c20d17fe96eceb912e3414",
+"index.html": "5b5aff8d96edcb01aa3ae685f0ff85b0",
+"/": "5b5aff8d96edcb01aa3ae685f0ff85b0",
+"main.dart.js": "27c05bcbe005ae1510630d0ee3e095a7",
 "manifest.json": "713121566a322e5cea2c936b870897b2",
 "version.json": "85725882d1e1ecbe19a1d0d73f2a0b33"};
 // The application shell files that are downloaded before a service worker can
